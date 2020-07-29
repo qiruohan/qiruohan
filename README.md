@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+This week I spent my time on 
+<!--START_SECTION:waka-->
+```text
+JavaScript   9 hrs 19 mins   ██████████████░░░░░░░░░░░   55.70 % 
+SCSS         3 hrs 8 mins    ████░░░░░░░░░░░░░░░░░░░░░   18.76 % 
+JSON         30 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+```
+<!--END_SECTION:waka-->
