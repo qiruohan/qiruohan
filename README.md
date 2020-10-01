@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 This week I spent my time on 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   19 hrs          ████████████████████░░░░░   79.37 % 
-Markdown     2 hrs 40 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-SCSS         2 hrs 15 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+JavaScript   14 hrs 56 mins  ███████████████████▒░░░░░   77.33 % 
+Markdown     2 hrs 29 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+SCSS         1 hr 53 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
 ```
 <!--END_SECTION:waka-->
