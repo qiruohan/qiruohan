@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 This week I spent my time on 
 <!--START_SECTION:waka-->
 ```text
-Markdown     42 mins         █████████████████████░░░░   83.98 % 
-JavaScript   8 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+Markdown     32 mins         ████████████████████░░░░░   80.15 % 
+JavaScript   8 mins          █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
 ```
 <!--END_SECTION:waka-->
