@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 This week I spent my time on 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+TypeScript   5 hrs 42 mins   ████████████████████████░   95.34 % 
+JSON         13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+SCSS         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 ```
 <!--END_SECTION:waka-->
