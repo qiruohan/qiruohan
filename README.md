@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 This week I spent my time on 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   9 hrs           ████████████████████░░░░░   79.51 % 
-JavaScript   1 hr 19 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-JSON         43 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-SCSS         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-Sass         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+TypeScript   10 hrs 9 mins   ████████████████████▒░░░░   81.59 % 
+JavaScript   1 hr 16 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+JSON         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+Markdown     14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Sass         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 ```
 <!--END_SECTION:waka-->
