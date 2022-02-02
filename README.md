@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 This week I spent my time on 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   2 hrs 12 mins   ██████████████████████░░░   88.26 % 
-TypeScript   17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+JavaScript   2 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
