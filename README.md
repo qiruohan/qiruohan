@@ -19,12 +19,10 @@ This week I spent my time on
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   16 hrs 40 mins  █████████████████████▒░░░   84.96 %
-Vue.js       2 hrs 16 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
-JSON         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
-Markdown     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-JavaScript   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+TypeScript                 16 hrs 34 mins  ██████████████████▓░░░░░░   74.27 %
+Vue.js                     4 hrs 19 mins   █████░░░░░░░░░░░░░░░░░░░░   19.39 %
+Markdown                   36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+Other                      19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
 
 <!--END_SECTION:waka-->
