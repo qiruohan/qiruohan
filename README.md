@@ -19,8 +19,7 @@ This week I spent my time on
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   17 mins         ██████████████▓░░░░░░░░░░   58.24 %
-Vue.js       12 mins         ██████████▒░░░░░░░░░░░░░░   41.76 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
